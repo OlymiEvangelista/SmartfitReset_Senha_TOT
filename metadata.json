@@ -1,0 +1,6 @@
+{
+  "name": "SmartFit Cache Manager",
+  "description": "Portal anônimo e seguro para recuperação de senha do Active Directory (AD) com base em busca de CPF e validação de tokens SMS via Zenvia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
